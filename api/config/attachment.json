@@ -1,0 +1,38 @@
+[
+   {
+      "contentType": "application/vnd.microsoft.card.adaptive",
+      "content": {
+         "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+         "body": [
+            {
+               "type": "TextBlock",
+               "text": "",
+               "horizontalAlignment": "Center",
+               "weight": "Bolder",
+               "color": "Accent",
+               "size": "Medium"
+            },
+            {
+               "type": "TextBlock",
+               "text": "",
+               "wrap": true
+            },
+            {
+               "type": "Input.ChoiceSet",
+               "placeholder": "Placeholder text",
+               "choices": [],
+               "style": "expanded",
+               "id": ""
+            }
+         ],
+         "actions": [
+            {
+               "title": "Submit",
+               "type": "Action.Submit"
+            }
+         ],
+         "type": "AdaptiveCard",
+         "version": "1.1"
+      }
+   }
+]

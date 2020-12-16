@@ -1,0 +1,32 @@
+---
+title: CiscoカルトQ
+quiz:
+  - question: かつてCiscoのCDO（最高開発責任者）を務めたMario MazzolaがCiscoに買収される以前に社長兼CEO務めていた会社は以下のいずれか？
+    choices:
+      - Kalpana
+      - Grand Junction
+      - Crescendo Communications
+      - Granite Systems
+      - StrataCom
+    answers: c
+  - question: フレームリレーコンソーシアムにおいてLMI(Local Management Interface)等の仕様策定にかかわりGang of Fourと呼ばれた企業をすべて選べ
+    choices:
+      - Ascend Communications
+      - Cisco Systems
+      - StrataCom
+      - AT&T
+      - Northern Telecom
+      - DEC
+      - IBM
+    answers: b,c,e,f
+  - question: Cisco2500、ISR等ソフトウェアベースのIOSルータのShaping機能でShape Rateとしてカウントされるものをすべて選べ
+    choices:
+      - Preamble
+      - SFD(Start of Frame Delimiter)
+      - MAC Destination Address
+      - MAC Source Address
+      - Ether Type
+      - Payload
+      - FCS(Frame Check Sequence)
+      - IFG(Inter Frame Gap)
+    answers: c,d,e,f
